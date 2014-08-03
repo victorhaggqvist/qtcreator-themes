@@ -9,6 +9,8 @@ Monokai
 -------
 ![enter image description here][2]
 
+Bitstream Vera Sans Mono font with the size of 12 and 90% zoom was used for these screenshots.
+
 Install
 --------
 Place `.xml` files into `share/qtcreator/styles` folder.
