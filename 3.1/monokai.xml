@@ -2,7 +2,7 @@
 <style-scheme version="1.0" name="Monokai">
   <style name="Text" foreground="#e6e5e2" background="#272822"/>
   <style name="Link" foreground="#88cee7" italic="true"/>
-  <style name="Selection" foreground="#e5e4e1" background="#303737"/>
+  <style name="Selection" background="#49483e"/>
   <style name="LineNumber" foreground="#616161"/>
   <style name="SearchResult" foreground="#000000" background="#94caef"/>
   <style name="SearchScope" foreground="#000000" background="#e2efff"/>
